@@ -1,0 +1,6 @@
+{
+  "name": "Morgan Tattoo Studio - Los Angeles",
+  "description": "Bespoke custom tattooing, black & grey realism, fine-line, and illustrative art in Los Angeles, California.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
